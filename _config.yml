@@ -1,0 +1,56 @@
+# Dependencies
+markdown:	kramdown
+# Permalinks
+permalink:	/blog/:title
+
+# Setup
+title:            Sistemas Mainframes
+tagline:          'blog'
+description:      'Página administrativa oficial de Sistemas Mainframes'
+url:              http://mainframes-utn-frba.github.io
+baseurl:
+commentsystem:    google
+disqus:           example
+
+author:
+  name:           Ernesto Bossi
+  url:            https://github.com/bossiernesto
+
+paginate:         5
+
+# Custom vars
+icon:             /assets/images/icon.png
+cover:            /assets/images/cover.jpg
+
+social:
+  - icon:         github
+    url:          https://github.com/mainframes-utn-frba
+    desc:         Sitio de github de la página
+
+  - icon:         feed
+    url:          /atom.xml
+    desc:         Subscribe to my feed
+
+menu:
+  - title:        Home
+    url:          /
+
+  - title:        Planificacion
+    url:          /planificacion
+
+  - title:        Apuntes
+    url:          /apuntes
+
+copyright:
+  author:         Camporez
+  url:            http://camporez.github.io
+  type_title:     Some rights reserved
+  type_url:       http://creativecommons.org/licenses/by-nc/2.5
+
+parallax:         false
+
+# Google Analytics (add the UA Code, e.g.: UA-xxxxxxxx-1)
+google_analytics:
+
+# Default Theme Color for Chrome on Android Lollipop (Use RGB ColorCode without `#`, e.g.: `db5945`)
+theme_color:       7E9576
