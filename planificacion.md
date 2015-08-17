@@ -2,7 +2,7 @@
 layout: page
 title: Planificación
 description: "Cronograma de las clases"
-permalink: /planificación/
+permalink: /planificacion/
 ---
 
 ## Planificación
