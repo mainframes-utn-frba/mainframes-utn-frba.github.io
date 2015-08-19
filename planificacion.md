@@ -10,7 +10,6 @@ permalink: /planificacion/
 <iframe style="width: 100%; height:400px"
   src="https://docs.google.com/spreadsheets/d/1t0ztsy7qiRe3B39L3Tl_UGAauzLsEMzK6FUgAPzVpm8/pubhtml?gid=3&single=true"></iframe>
 
-
 ## Cuando?
 
 #### Por el momento la materia no esta en curso
